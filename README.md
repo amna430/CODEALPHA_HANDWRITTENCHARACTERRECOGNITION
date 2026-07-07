@@ -1,4 +1,4 @@
-# Codealpha_handwrittencharacterrecognition
+
 # CodeAlpha_HandwrittenCharacterRecognition
 
 ## 📌 Task
